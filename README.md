@@ -14,15 +14,14 @@ Welcome to our Study Group! A few things to do & know now that you're here:
  - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
  - **Add yourself to the website:** If you'd like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml`; send us a pull request with an entry for yourself, or open an issue and we'll do it for you.
 
+## Summer 2022 Tentative Schedule
+| Date        | Event                                         | Lead                         | Issue                                                             |
+|:------------|:----------------------------------------------|:-----------------------------|:------------------------------------------------------------------|
+| 2022 May 12 | Introductions, R, R-Studio, Bash              | minisciencegirl              | [115](https://github.com/UBC-R-Study-group/studyGroup/issues/115) |
+| 2022 May 19 | Intro to data manipulation with the tidyverse |                              | [116](https://github.com/UBC-R-Study-group/studyGroup/issues/116) |
+| 2022 May 26 | Introduction to ggplot2                       | kluongni                     | [117](https://github.com/UBC-R-Study-group/studyGroup/issues/117) |
+| 2022 Jun 2  | Writing functions in R                        |                              | [118](https://github.com/UBC-R-Study-group/studyGroup/issues/118) |
 
-## For Participants
-
-Welcome to our Study Group! A few things to do & know now that you're here:
-
- - **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
- - **Check out the issue tracker:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
- - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
- - **Add yourself to the website:** If you'd like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml`; send us a pull request with an entry for yourself, or open an issue and we'll do it for you.
 
 ## For Organizers
 
