@@ -17,9 +17,9 @@ Welcome to our Study Group! A few things to do & know now that you're here:
 ## Summer 2022 Tentative Schedule
 | Date        | Event                                         | Lead                         | Issue                                                             |
 |:------------|:----------------------------------------------|:-----------------------------|:------------------------------------------------------------------|
-| 2022 May 12 | Introductions, R, R-Studio, Bash              | minisciencegirl              | [115](https://github.com/UBC-R-Study-group/studyGroup/issues/115) |
+| 2022 May 12 | Introductions, R, R-Studio, Bash              | @minisciencegirl              | [115](https://github.com/UBC-R-Study-group/studyGroup/issues/115) |
 | 2022 May 19 | Intro to data manipulation with the tidyverse |                              | [116](https://github.com/UBC-R-Study-group/studyGroup/issues/116) |
-| 2022 May 26 | Introduction to ggplot2                       | kluongni                     | [117](https://github.com/UBC-R-Study-group/studyGroup/issues/117) |
+| 2022 May 26 | Introduction to ggplot2                       | @kluongni                     | [117](https://github.com/UBC-R-Study-group/studyGroup/issues/117) |
 | 2022 Jun 2  | Writing functions in R                        |                              | [118](https://github.com/UBC-R-Study-group/studyGroup/issues/118) |
 
 
