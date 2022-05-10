@@ -2,7 +2,7 @@ SFU Lee Lab Bioinformatics/R Study Group
 ========================================
 
 Welcome to the SFU Lee Lab's Bioinformatics and R Study Group! We are a group of R/Python/(insert your favourite language) enthusiasts who love data. We are an inclusive group and welcome everyone. This repo contains informations for our informal meetups o share skills, stories and ideas on using code for research. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers.
-Check out our [event listings on our website](https://sfu-lee-lab.github.io/bioinfo-r-studyGroup/), or join the conversation on our [message board](https://github.com/sfu-lee-lab/studyGroup/issues).
+Check out our [event listings on our website](https://sfu-lee-lab.github.io/bioinfo-r-studyGroup/), or join the conversation on our [message board](https://github.com/SFU-Lee-Lab/bioinfo-r-studyGroup/issues).
 
 
 ## For Participants
