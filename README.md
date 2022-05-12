@@ -27,7 +27,7 @@ Welcome to our Study Group! A few things to do & know now that you're here:
 
 ### It's Broken, I Need Help
 
-If anything in these instructions doesn't work or doesn't make sense, open an issue [here](https://github.com/mozillascience/studyGroup/issues) or email bill@mozillafoundation.org.
+If anything in these instructions doesn't work or doesn't make sense, open an issue [here](https://github.com/SFU-Lee-Lab/bioinfo-r-studyGroup/issues) or email Amy and Kevin.
 
 ### Check out the Handbook
 
